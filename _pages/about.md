@@ -30,7 +30,7 @@ Publications
   <br/>
   [[Paper](https://arxiv.org/abs/2505.12680)] [[Code and Dataset](https://github.com/haoyuzhao123/LeanIneqComp)] [[Huggingface](https://huggingface.co/datasets/zzzzzhy/Ineq-Comp)]
 
-- **Theoretical Benefit and Limitation of Diffusion Language Model**, *preprint*
+- **Theoretical Benefit and Limitation of Diffusion Language Model**, *Preprint*
   <br/>
   Guhao Feng\*, **Yihan Geng\***, Jian Guan, Wei Wu, Liwei Wang, Di He
   <br/>
