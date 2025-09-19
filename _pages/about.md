@@ -9,7 +9,7 @@ redirect_from:
 
 I am a senior undergraduate student at [Peking University](https://www.pku.edu.cn/), majoring in Computational Mathematics and double majoring in Computer Science, where I am fortunate to be advised by Prof. [Di He](https://dihe-pku.github.io/). Previously, I worked as a research intern at [Princeton University](https://www.princeton.edu/), advised by Prof. [Chi Jin](https://sites.google.com/view/cjin/home), and [University of Washington](https://www.washington.edu/), advised by Prof. [Simon Shaolei Du](https://simonshaoleidu.com/index.html). I have also interned at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
-My research interests broadly lie in machine learning and artificial intelligence, with a particular focus on generative AI. I am guided by the belief that meaningful research should identify important problems and/or deliver valuable outcomes — whether through theory, algorithms, data, architectures, or systems — with the ultimate goal of advancing AI in ways that can solve real-world problems and be beneficial to the whole society.
+My research interests broadly lie in machine learning and artificial intelligence, with a particular focus on generative models and LLMs. I am guided by the belief that meaningful research should identify important problems and/or deliver valuable outcomes — whether through theory, algorithms, data, architectures, or systems — with the ultimate goal of advancing AI in ways that can solve real-world problems and be beneficial to the whole society.
 
  **I am seeking PhD opportunities starting in Fall 2026.** Please feel free to reach out! \\
  You can find me at: gengyihan \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn.
