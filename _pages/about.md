@@ -18,19 +18,19 @@ Publications
 ======
 \* stands for equal contribution or core contributor. You can also refer to my [Google Scholar](https://scholar.google.com/citations?user=9jts-VQAAAAJ&hl=zh-CN).
 
-- **Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**, *Technical Report*
+- **Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**, *Preprint*
   <br/>
   Yong Lin\*, Shange Tang\*, Bohan Lyu\*, Ziran Yang\*, Jui-Hui Chung\*, Haoyu Zhao\*, Lai Jiang\*, **Yihan Geng\***, Jiawei Ge, Jingruo Sun, Jiayun Wu, Jiri Gesi, Ximing Lu, David Acuna, Kaiyu Yang, Hongzhou Lin\*, Yejin Choi, Danqi Chen, Sanjeev Arora, Chi Jin\*
   <br/>
   [[Paper](https://arxiv.org/abs/2508.03613)] [[Blog](https://blog.goedel-prover.com/)] [[Code](https://github.com/Goedel-LM/Goedel-Prover-V2)] [[Models](https://huggingface.co/Goedel-LM)]
 
-- **Ineq-Comp: Benchmarking Human-Intuitive Compositional Reasoning in Automated Theorem Proving on Inequalities**, *Preprint*
+- **Ineq-Comp: Benchmarking Human-Intuitive Compositional Reasoning in Automated Theorem Proving on Inequalities**, *Neurips 2025*
   <br/>
   Haoyu Zhao, **Yihan Geng**, Shange Tang, Yong Lin, Bohan Lyu, Hongzhou Lin, Chi Jin, Sanjeev Arora
   <br/>
   [[Paper](https://arxiv.org/abs/2505.12680)] [[Code and Dataset](https://github.com/haoyuzhao123/LeanIneqComp)] [[Huggingface](https://huggingface.co/datasets/zzzzzhy/Ineq-Comp)]
 
-- **Theoretical Benefit and Limitation of Diffusion Language Model**, *Preprint*
+- **Theoretical Benefit and Limitation of Diffusion Language Model**, *Neurips 2025*
   <br/>
   Guhao Feng\*, **Yihan Geng\***, Jian Guan, Wei Wu, Liwei Wang, Di He
   <br/>
