@@ -45,9 +45,10 @@ Publications
 
 Selected Awards and Honors
 ======
+- 2024-2025: Peking University Qin Wanshun - Jin Yunhui Scholarship
 - 2023-2024: Samsung Scholarship
 - 2023-2024: Peking University Ding Shisun - Gui Linlin Outstanding Student Scholarship
 - 2022-2023: The Third Prize of Peking University Scholarship
-- 2022-2024: Merit Student of Peking University * 2
+- 2022-2025: Merit Student of Peking University * 3
 - 2021: Chinese Mathematical Olympiad (CMO) Silver Medalist
 - 2021: China Girl’s Mathematical Olympiad (CGMO) Gold Medalist
