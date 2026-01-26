@@ -18,7 +18,7 @@ Publications
 ======
 \* stands for equal contribution or core contributor. You can also refer to my [Google Scholar](https://scholar.google.com/citations?user=9jts-VQAAAAJ&hl=zh-CN).
 
-- **Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**, *Preprint*
+- **Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**, *ICLR 2026*
   <br/>
   Yong Lin\*, Shange Tang\*, Bohan Lyu\*, Ziran Yang\*, Jui-Hui Chung\*, Haoyu Zhao\*, Lai Jiang\*, **Yihan Geng\***, Jiawei Ge, Jingruo Sun, Jiayun Wu, Jiri Gesi, Ximing Lu, David Acuna, Kaiyu Yang, Hongzhou Lin\*, Yejin Choi, Danqi Chen, Sanjeev Arora, Chi Jin\*
   <br/>
