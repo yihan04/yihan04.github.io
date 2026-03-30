@@ -11,7 +11,7 @@ I am a senior undergraduate student at [Peking University](https://www.pku.edu.c
 
 My research interests broadly lie in machine learning and artificial intelligence, with a particular focus on generative models and LLMs. I am guided by the belief that meaningful research should identify important problems and/or deliver valuable outcomes — whether through theory, algorithms, data, architectures, or systems — with the ultimate goal of advancing AI in ways that can solve real-world problems and be beneficial to the whole society.
 
- **I am seeking PhD opportunities starting in Fall 2026.** Please feel free to reach out! \\
+Please feel free to reach out! \\
  You can find me at: gengyihan \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn.
 
 Publications
