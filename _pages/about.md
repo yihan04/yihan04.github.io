@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at [Peking University](https://www.pku.edu.cn/), majoring in Computational Mathematics and double majoring in Computer Science, where I am fortunate to be advised by Prof. [Di He](https://dihe-pku.github.io/). Previously, I worked as a research intern at [Princeton University](https://www.princeton.edu/), advised by Prof. [Chi Jin](https://sites.google.com/view/cjin/home), and [University of Washington](https://www.washington.edu/), advised by Prof. [Simon Shaolei Du](https://simonshaoleidu.com/index.html). I have also interned at [Shanghai AI Lab](https://www.shlab.org.cn/).
+I am a first-year PhD student of [Computer Sciences](https://eecs.berkeley.edu/cs/) at [UC Berkeley](https://www.berkeley.edu/). Previously, I was an undergraduate student at [Peking University](https://www.pku.edu.cn/), majoring in Computational Mathematics and double majoring in Computer Science, where I was fortunate to be advised by Prof. [Di He](https://dihe-pku.github.io/). I have worked as a research intern at [Princeton University](https://www.princeton.edu/), advised by Prof. [Chi Jin](https://sites.google.com/view/cjin/home), and [University of Washington](https://www.washington.edu/), advised by Prof. [Simon Shaolei Du](https://simonshaoleidu.com/index.html). I have also interned at [Shanghai AI Lab](https://www.shlab.org.cn/) and [ByteDance Seed](https://seed.bytedance.com/en/).
 
 Please feel free to reach out! \\
- You can find me at: gengyihan \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn.
+ You can find me at: yihan_geng \[at\] berkeley \[dot\] edu.
 
 Publications
 ======
@@ -43,6 +43,8 @@ Publications
 
 Selected Awards and Honors
 ======
+- 2025-2026：Outstanding Graduates of Beijing
+- 2025-2026: Outstanding Graduates of Peking University
 - 2024-2025: Peking University Qin Wanshun - Jin Yunhui Scholarship
 - 2023-2024: Samsung Scholarship
 - 2023-2024: Peking University Ding Shisun - Gui Linlin Outstanding Student Scholarship
